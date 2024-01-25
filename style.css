@@ -241,7 +241,7 @@ sup {
   min-height: 500px;
   padding: 0 20px;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), #1a1a26), url("../../img/feedback.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), #1a1a26), url("./img/feedback.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -387,7 +387,7 @@ sup {
   min-height: 600px;
   padding: 10px 20px 0 20px;
   margin-bottom: 40px;
-  background-image: url("../../img/background.jpg");
+  background-image: url("./img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
