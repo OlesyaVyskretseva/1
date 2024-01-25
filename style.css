@@ -241,7 +241,7 @@ sup {
   min-height: 500px;
   padding: 0 20px;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), #1a1a26), url("./feedback.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), #1a1a26), url("feedback.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
